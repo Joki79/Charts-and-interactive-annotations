@@ -2,7 +2,7 @@
 My DS projects
 
 
-# Project 1: Charts-and-interactive-annotations(https://github.com/Joki79/Interactive-anottations-and-IQR)
+#[[Project 1: Charts-and-interactive-annotations](https://github.com/Joki79/Interactive-anottations-and-IQR)
 
 Comparing bars to a range using tricolor palette and interactive annotations
 Comparing bars to a range using tricolor palette and interactive annotations
