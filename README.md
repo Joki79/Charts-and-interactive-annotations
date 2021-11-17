@@ -22,7 +22,7 @@ I implemented the bar coloring where the color of the bar is actually based on t
 Note: The data given for this assignment is not the same as the data used in the article and as a result the visualizations may look a little different.
 
 
-# Project 2a): Cairo-s-principles-of-visualization
+# [Project 2a): Cairo-s-principles-of-visualization](https://github.com/Joki79/Cairo-s-principles-of-visualization)
 Number of hailstorms in Denver, Collin and Laramie over the past 30 years
 
 This project is a part of my work done for the Coursera Data Science specialization by University of Michigan. 
@@ -54,6 +54,6 @@ The data for this project can be found below:
 [storm_data_search_resultsLaramie.csv](https://github.com/Joki79/Cairo-s-principles-of-visualization/files/7546935/storm_data_search_resultsLaramie.csv)
 
 
-# Project 2b): Cairo-s-principles-of-visualization
+# [Project 2b): Cairo-s-principles-of-visualization](https://github.com/Joki79/Cairo-s-principles-of-visualization)
 
 Creating the temperature chart using Cairo's priciples of visualization 
