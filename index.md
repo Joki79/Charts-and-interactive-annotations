@@ -57,6 +57,6 @@ The data for this project can be found below:
 # [Project 2b): Cairo-s-principles-of-visualization](https://github.com/Joki79/Cairo-s-principles-of-visualization)
 
 Creating the temperature chart using Cairo's priciples of visualization 
-interactive-annotations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+interactive-annotations/settings/pages). 
 
 
