@@ -1,5 +1,6 @@
 
-# My DS projects
+# My DS projects![good charts](https://user-images.githubusercontent.com/57463075/142271835-2c6922da-99c3-41fe-96db-bc25f72f5884.jpeg)
+
 
 
 # [Project 1: Charts-and-interactive-annotations](https://github.com/Joki79/Interactive-anottations-and-IQR)
