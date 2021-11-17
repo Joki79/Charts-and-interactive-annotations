@@ -1,5 +1,5 @@
-# My_Data_Science_Portfolio
-My DS projects
+
+# My DS projects
 
 
 # [Project 1: Charts-and-interactive-annotations](https://github.com/Joki79/Interactive-anottations-and-IQR)
