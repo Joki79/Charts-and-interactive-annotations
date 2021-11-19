@@ -38,3 +38,6 @@ This visual is supposed to attract readers attention by displaying two apparentl
 # [Project 2b): Cairo-s-principles-of-visualization  Line plot](https://github.com/Joki79/Cairo-s-principles-of-visualization)
 
 Creating the temperature chart using Cairo's priciples of visualization 
+
+
+# [Project 3: Machine learning Detroit blight model]
