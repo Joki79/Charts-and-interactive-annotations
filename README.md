@@ -40,4 +40,4 @@ This visual is supposed to attract readers attention by displaying two apparentl
 Creating the temperature chart using Cairo's priciples of visualization 
 
 
-# [Project 3: Machine learning Detroit blight model]
+# [Project 3: Machine learning Detroit blight model](https://github.com/Joki79/My-Data-Science-portfolio/blob/main/Detroit%20blight%20model.ipynb)
