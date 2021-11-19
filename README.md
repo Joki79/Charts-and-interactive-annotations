@@ -46,5 +46,6 @@ Creating the temperature chart using Cairo's priciples of visualization
 For this project I built a classifier for the actual data from the City of Detroit. The model predicts the  blight ticket compliance and can serve the city to increase same.
 
 I did a lot of data analyzing, cleaning, some encoding and clustering. After few trials, I chose the Decision tree calssifier and tuned some parameters. The AUROC score for the test data was over 0.75. 
+![Detroit blight model](https://user-images.githubusercontent.com/57463075/142579074-4842b615-88c6-45ee-bdd5-e519d0399561.jpeg)
 
-![Detroit blight model](https://user-images.githubusercontent.com/57463075/142578884-1194c766-79e1-46d8-9ac0-ab5ad785b946.jpeg)
+shorturl.at/wNTU8
