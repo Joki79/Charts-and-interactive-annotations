@@ -21,8 +21,7 @@ I implemented the bar coloring where the color of the bar is actually based on t
 
      
 
-# [Project 2a): Cairo-s-principles-of-visualization]
-# [Number of hailstorms in Denver, Collin and Laramie over the past 30 years](https://github.com/Joki79/Cairo-s-principles-of-visualization)
+# [Project 2a): Cairo-s-principles-of-visualization  Number of hailstorms in Denver, Collin and Laramie over the past 30 years](https://github.com/Joki79/Cairo-s-principles-of-visualization)
 Number of hailstorms in Denver, Collin and Laramie over the past 30 years
 
 This project is a part of my work done for the Coursera Data Science specialization by University of Michigan. 
