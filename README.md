@@ -53,7 +53,7 @@ shorturl.at/wNTU8
 
 # Project 4: World happiness report
 # [PART I](https://github.com/Joki79/My-DS-projects/blob/main/Happiness%20score%20Part%20I%20-Data%20preprocessing%20.ipynb) 
-# [PART II](https://github.com/Joki79/Happiness score-PART II- Plotly, matplotlib, seaborn and analysis.ipynb) 
+# [PART II](https://github.com/Joki79/My-DS-projects/blob/main/Happiness%20score-PART%20II-%20Plotly%2C%20matplotlib%2C%20seaborn%20and%20analysis.ipynb) 
 # [PART III](https://github.com/Joki79/Happiness score - Part III -Data analysis and modelling.ipynb)
 
 In this project I have analyzed the data on happiness index. In the part 1 I have cleaned my data and kept only countries that had data for entire period 2015-2019.
