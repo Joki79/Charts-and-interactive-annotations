@@ -52,7 +52,7 @@ shorturl.at/wNTU8
 
 
 # Project 4: World happiness report
-# [PART I](https://github.com/Joki79/Happiness score Part I -Data preprocessing .ipynb) 
+# [PART I](https://github.com/Joki79/My-DS-projects/blob/main/Happiness%20score%20Part%20I%20-Data%20preprocessing%20.ipynb) 
 # [PART II](https://github.com/Joki79/Happiness score-PART II- Plotly, matplotlib, seaborn and analysis.ipynb) 
 # [PART III](https://github.com/Joki79/Happiness score - Part III -Data analysis and modelling.ipynb)
 
