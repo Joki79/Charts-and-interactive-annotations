@@ -51,7 +51,7 @@ I did a lot of data analyzing, cleaning, some encoding and clustering. After few
 shorturl.at/wNTU8
 
 
-# Project 4: World happiness report: [PART I](Happiness score Part I -Data preprocessing .ipynb) [PART II](Happiness score-PART II- Plotly, matplotlib, seaborn and analysis.ipynb) [PART III](https://github.com/Joki79/My-DS-projects/blob/main/Happiness%20score%20-%20Part%20III%20-Data%20analysis%20and%20modelling.ipynb)
+# Project 4: World happiness report: [PART I](Happiness score Part I -Data preprocessing .ipynb) [PART II](Happiness score-PART II- Plotly, matplotlib, seaborn and analysis.ipynb) [PART III](Happiness score - Part III -Data analysis and modelling.ipynb)
 
 In this project I have analyzed the data on happiness index. In the part 1 I have cleaned my data and kept only countries that had data for entire period 2015-2019.
 In the part 2 I focused on visualizing data and the data distribution. I have used geoplots, histograms, Q-Q plots for testing data normality and box and whisker plots to get the better insight into data. 
