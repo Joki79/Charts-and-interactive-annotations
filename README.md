@@ -65,4 +65,5 @@ Another limitation waas the fact that the happiness index is actually the sum of
 
 This is an example of a classification problem on imbalanced dataset. In the part 1 I have used visualization and tried few models on the original dataset. The accuracy scores and blanced accuracy scores werr pretty low. In the part 2 I started applying oversampling techniques and use the best model from the part 1. Metrics I have been using is ROC - AUC score. 
 
-(https://res.cloudinary.com/hio22hxcn/image/upload/ar_3:2,c_fill,f_auto,fl_lossy,g_auto,q_auto,w_1000/v1459823452/xxuzvjavaktcvykjj0pw)
+![image](https://user-images.githubusercontent.com/57463075/150718842-9794d803-96e2-44e1-a2c4-691f01f45bf7.png)
+
