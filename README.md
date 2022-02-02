@@ -61,7 +61,7 @@ Another limitation waas the fact that the happiness index is actually the sum of
 <img width="794" alt="Screen Shot 2021-12-20 at 10 10 49 PM" src="https://user-images.githubusercontent.com/57463075/146880464-e6d5cd09-47fa-4c1a-ad9a-8f3d2b201d49.png">
 
 
-# [Project 5: Red Wine Quality ](https://github.com/Joki79/Red-Wine-Quality.git)
+# [Project 5: Red Wine Quality ](https://joki79.github.io/Red-Wine-Classification/)
 
 This is an example of a classification problem on imbalanced dataset. In the part 1 I have used visualization and tried few models on the original dataset. The accuracy scores and blanced accuracy scores werr pretty low. In the part 2 I started applying oversampling techniques and use the best model from the part 1. Metrics I have been using is ROC - AUC score. 
 
