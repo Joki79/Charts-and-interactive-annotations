@@ -68,3 +68,10 @@ This is an example of a classification problem on imbalanced dataset. In the par
 (![wine-enologist-job](https://user-images.githubusercontent.com/57463075/151496069-50f48499-7e79-4f5b-8bb5-e95332a28aba.jpeg)
 ) 
 
+# [Project 6: Car prices ](https://github.com/Joki79/Car-prices)
+
+This project uses the car dataset published by https://archive.ics.uci.edu/ml/datasets/automobile
+
+The goal in this project is to analyze and impute the missign data in the cars datset and then to build and evaluate a linear regression model for predicting car prices. The dataset also had some categorical features that had to be encoded and some of the are found to be less relevant for the model, and therefore omitted. 
+Performance of the linear model was assesed through r-squared and the score was 0.89 for the test data. 
+https://www.gannett-cdn.com/media/2018/06/14/USATODAY/usatsports/car-lot-square-e1461855298700.jpg?width=1200&disable=upscale&format=pjpg&auto=webp
