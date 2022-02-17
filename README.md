@@ -75,4 +75,4 @@ This project uses the car dataset published by https://archive.ics.uci.edu/ml/da
 The goal in this project is to analyze and impute the missign data in the cars datset and then to build and evaluate a linear regression model for predicting car prices. The dataset also had some categorical features that had to be encoded and some of the are found to be less relevant for the model, and therefore omitted. 
 Performance of the linear model was assesed through r-squared and the score was 0.89 for the test data. 
 
-(https://www.gannett-cdn.com/media/2018/06/14/USATODAY/usatsports/car-lot-square-e1461855298700.jpg?width=1200&disable=upscale&format=pjpg&auto=webp)
+[] (https://www.gannett-cdn.com/media/2018/06/14/USATODAY/usatsports/car-lot-square-e1461855298700.jpg?width=500&height=500&fit=crop&format=pjpg&auto=webp)
