@@ -7,7 +7,7 @@
 
 This project uses the car dataset published by https://archive.ics.uci.edu/ml/datasets/automobile
 
-The goal in this project is to analyze and impute the missign data in the cars datset and then to build and evaluate a linear regression model for predicting car prices. The dataset also had some categorical features that had to be encoded and some of the are found to be less relevant for the model, and therefore omitted. 
+The goal in this project is to analyze and impute the missing data in the cars datset and to build and evaluate a linear regression model for predicting car prices. The categorical features in this dataset are encounded. After statistical analysis some features are omitted as they're ound to be irrelevant for the car price. 
 Performance of the linear model was assesed through r-squared and the score was 0.89 for the test data. 
 
 <img width="502" alt="Screen Shot 2022-02-16 at 6 00 27 PM" src="https://user-images.githubusercontent.com/57463075/154383895-62560dfd-bd86-495d-8ebb-dc4f51a7d1f9.png">
